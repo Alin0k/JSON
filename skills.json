@@ -1,5 +1,5 @@
 {
 	"courseProgram",
-	"basicTheory": "bagReports", "SDLC", "STLC",
+	"basicTheory": "bugReports", "SDLC", "STLC",
 	"whatIsclient-server architecture"
 }
